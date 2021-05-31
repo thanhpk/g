@@ -1,3 +1,7 @@
+function b() {
+	console.log('b')
+}
+
 function thanh() {
 	console.log(1)
 	console.log(3)
