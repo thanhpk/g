@@ -8,3 +8,7 @@ var a = {
 a: 1,
 b: 3,
 }
+
+function c() {
+	console.log('c')
+}
