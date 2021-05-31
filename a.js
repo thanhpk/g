@@ -1,5 +1,6 @@
 function thanh() {
 	console.log(1)
+	console.log(3)
 }
 
 var a = {
