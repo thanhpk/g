@@ -3,6 +3,6 @@ function thanh() {
 }
 
 var a = {
-a: 2,
-b: 2,
+a: 1,
+b: 3,
 }
